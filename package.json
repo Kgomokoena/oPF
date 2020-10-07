@@ -1,0 +1,22 @@
+{
+  "name": "opf",
+  "version": "1.0.0",
+  "description": "blockChain based peer-to-peer loan system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kgomokoena/oPF.git"
+  },
+  "keywords": [
+    "blockchain"
+  ],
+  "author": "Kgotso Mokoena",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kgomokoena/oPF/issues"
+  },
+  "homepage": "https://github.com/Kgomokoena/oPF#readme"
+}
